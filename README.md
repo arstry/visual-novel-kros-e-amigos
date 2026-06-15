@@ -44,10 +44,10 @@ python main.py
 
 ## Equipe
 
-- **Gabriel R. C. Mendonça** — Líder do projeto, game design, direção de arte
-- **Gabriel Carvalho Pires** — Design narrativo, roteiro, direção de áudio
-- **Rafael Capim Soares** — Desenvolvimento, engine, programação
-- **Arthur Rafael Silva Teixeira** — Suporte da comunidade, qualidade
+- Gabriel R. C. Mendonça
+- Gabriel Carvalho Pires
+- Rafael Capim Soares
+- Arthur Rafael Silva Teixeira
 
 ## Controles
 
