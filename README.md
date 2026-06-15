@@ -5,6 +5,9 @@ Uma visual novel interativa desenvolvida em Python com Pygame. Acompanhe Kros e 
 ## Como executar
 
 ```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+# venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 python main.py
 ```

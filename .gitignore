@@ -19,6 +19,9 @@ virtualenv/
 .ipynb_checkpoints/
 *.ipynb
 
+# Misc
+.ai-jail
+
 # IDE / Editors
 .vscode/
 .idea/
