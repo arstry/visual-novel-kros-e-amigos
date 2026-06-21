@@ -27,46 +27,37 @@ def iniciar_creditos():
     "Gabriel R. C. Mendonça",
 
     "DESENVOLVEDOR PRINCIPAL",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "DIRETOR TÉCNICO",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "PROGRAMADOR PRINCIPAL",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "PROGRAMAÇÃO DE GAMEPLAY",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "PROGRAMAÇÃO DE SISTEMAS",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "PROGRAMAÇÃO DA ENGINE",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "PROGRAMAÇÃO DE FERRAMENTAS",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "IMPLEMENTAÇÃO",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "OTIMIZAÇÃO",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "GERENCIAMENTO DE BUILD",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "CONTROLE DE VERSÃO",
-    "Arthur Rafael Silva Teixeira",
-
-    "ORGANIZAÇÃO DO PROJETO",
-    "Arthur Rafael Silva Teixeira",
-
-    "VERIFICAÇÃO DE VERSIONAMENTO",
-    "Arthur Rafael Silva Teixeira",
-
-    "DIRETOR DE QUALIDADE",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
 
     "DESIGN NARRATIVO",
     "Gabriel Carvalho Pires",
@@ -120,31 +111,19 @@ def iniciar_creditos():
     "Gabriel Carvalho Pires",
 
     "SUPORTE DA COMUNIDADE",
-    "Rafael Campello Veado",
+    "Arthur Rafael da Silva Veado",
 
     "APOIADOR DO PROJETO",
-    "Rafael Campello Veado",
+    "Arthur Rafael da Silva Veado",
 
     "MASCOTE DA EQUIPE",
-    "Rafael Campello Veado",
+    "Arthur Rafael da Silva Veado",
 
     "MASCOTE OFICIAL",
-    "Rafael Campello Veado",
-
-    "MODELO",
-    "Rafael Campello Veado",
-
-    "DESENVOLVEDOR",
-    "Rafael Campello Veado",
-
-    "ATOR DE ÁUDIO",
-    "Rafael Campello Veado",
-
-    "ATOR",
-    "Rafael Campello Veado",
+    "Arthur Rafael da Silva Veado",
 
     "GARANTIA DE QUALIDADE",
-    "Arthur Rafael Silva Teixeira",
+    "Rafael Campello Soares",
     "Gabriel Carvalho Pires",
     "Gabriel R. C. Mendonça",
 
